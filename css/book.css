@@ -1,0 +1,87 @@
+body{
+    background-color: crimson;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head_1 img {
+    width: 155px;
+    height: 250px;
+    float: left;
+    padding: 0 15px;
+    margin-top: 5px;
+    margin-left: 15px;
+    position: relative;
+
+}
+.head_2 a {
+    text-decoration: none;
+}
+.head_2 a:hover{
+    text-decoration: underline;
+}
+.head_2{
+    padding: 0 15px;
+    margin-top: 5px;
+    width: 750px;
+    height: 250px;
+    float: left;
+}
+.head_3{
+    padding: 0 15px;
+    margin-top: 5px;
+    height: 250px;
+
+}
+.head{
+    border-bottom: 2px solid maroon;
+    padding-bottom: 15px;
+}
+.head p{
+    font-size: 20px;
+}
+
+h1 {
+    padding: 0 30px;
+    margin: 0 auto;
+    font-size: 200%; /* Размер шрифта */
+    border-bottom: 2px solid maroon; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 15px; /* Расстояние от текста до линии */
+
+}
+.letter{
+    color: red; /* Красный цвет символов */
+    font-size: 200%; /* Размер шрифта в процентах */
+    font-family: serif; /* Шрифт с засечками */
+    position: relative; /* Относительное позиционирование */
+    top: 5px; /* Сдвиг сверху */
+}
+.body{
+    padding: 0 15px;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    border-bottom: 2px solid maroon;
+}
+.body p{
+    text-indent: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    text-align: justify;
+}
+.end_1 img{
+    width: 155px;
+    height: 250px;
+    float: left;
+    padding: 0 15px;
+    margin-top: 5px;
+    position: relative;
+    margin-left: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
